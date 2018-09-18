@@ -1,0 +1,16 @@
+.AddPlayer {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.AddPlayer__submit {
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+   margin: 10px auto;
+   background-color: #4bcffa;
+   border: none;
+}

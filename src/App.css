@@ -1,0 +1,19 @@
+.App {
+    background-color: white;
+    width: 40vw;
+    padding: 20px;
+    display: flex;
+   flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.AddPlayer {
+    text-align: center;
+    width: 100%;
+}
